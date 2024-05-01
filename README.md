@@ -12,6 +12,7 @@
     - [Install Dependencies](#install-dependencies-1)
     - [Run the Server](#run-the-server)
   - [**EndPoints**](#endpoints)
+  - [Technologies Used](#technologies-used)
   - [Authors](#authors)
   - [License](#license)
 
@@ -97,6 +98,11 @@ $ npm start
 The backend is served at `http://127.0.0.1:8000`
 
 The frontend is served at `http://127.0.0.1:3000`
+
+## Technologies Used
+
+- Backend Technologies - `Django`, `Django REST-Framework` `Django REST-Framework-JWT`
+- Frontend Technologies - `React` `Redux` `Material UI`
 
 ## Authors
 
